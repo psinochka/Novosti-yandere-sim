@@ -1,0 +1,14 @@
+h1 {
+    color: rosybrown;
+    background-color:whitesmoke;
+    border-bottom: 7px dashed rosybrown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium' cursive;
+}
+.icon {
+    width: 160px;
+}
+
+.newsone {
+    color: rosybrown;
+    font-family: 'Franklin Gothic Medium';
